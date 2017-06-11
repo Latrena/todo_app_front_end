@@ -31,5 +31,8 @@ ul{
 li:hover{
     background-color: 669999;
 }
-
+li{
+    width: 50%;
+  
+}
 }
